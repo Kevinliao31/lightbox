@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Kevinliao31/lightbox/issues"
   },
-  "homepage": "https://github.com/Kevinliao31/lightbox#readme"
+  "homepage": "https://github.com/Kevinliao31/lightbox#readme",
+  "dependencies": {
+    "cypress": "^13.6.6"
+  }
 }
