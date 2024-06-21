@@ -1,6 +1,6 @@
 describe('Lightbox Tests', () => {
     beforeEach(() => {
-        cy.visit('../../../app/lightbox.html');
+        cy.visit('../../app/lightbox.html');
     });
 
     it("Ouverture de l'image", () => {
