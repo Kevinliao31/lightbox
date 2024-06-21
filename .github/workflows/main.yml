@@ -1,3 +1,4 @@
+# Integration continue
 name: cypress-testing
 on: push
 jobs:
